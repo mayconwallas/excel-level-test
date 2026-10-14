@@ -109,7 +109,7 @@ const RESULT_DETAILS = {
   },
 }
 
-const AFFILIATE_LINK = 'https://go.hotmart.com/Q107972225C?ap=1384'
+const AFFILIATE_LINK = 'https://go.hotmart.com/Q107972225C?ap=354a'
 
 function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0)
